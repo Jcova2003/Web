@@ -29,7 +29,7 @@ function animateImageChange(newImageSrc) {
     }, 200);
 }
 
-setupOptionHandler('option1', 'img/Danza_viva.webp');
+setupOptionHandler('option1', 'img/DanzaViva.webp');
 setupOptionHandler('option2', 'img/Discos.webp');
 setupOptionHandler('option3', 'img/Voltyc.webp');
 setupOptionHandler('option4', 'img/Menu.webp');
